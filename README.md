@@ -1,4 +1,4 @@
-# QuestTrade_Auto_Bot
+# Trading_Auto_Bot
 
 ## Objectives
 - Create a bot to test out various algorithmic trading strategies.
